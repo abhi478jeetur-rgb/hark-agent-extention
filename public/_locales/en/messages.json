@@ -1,0 +1,17 @@
+{
+  "extName": {
+    "message": "Hark Browser Agent"
+  },
+  "extDescription": {
+    "message": "An AI agent that works in your browser, in a side panel beside the page"
+  },
+  "actionTitle": {
+    "message": "Open Hark Browser Agent"
+  },
+  "commandOpenPanel": {
+    "message": "Open the Hark Browser Agent panel"
+  },
+  "menuAskAboutSelection": {
+    "message": "Ask Hark Browser Agent about this"
+  }
+}
